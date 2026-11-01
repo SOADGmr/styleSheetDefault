@@ -20,7 +20,7 @@ body {
     display: flex; 
     flex-direction: column; 
     margin-bottom: 15px; 
-      }
+}
 label { 
     font-weight: bold; 
     margin-bottom: 5px; 
